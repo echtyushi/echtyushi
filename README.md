@@ -6,6 +6,6 @@ Hi, I'm Josh &mdash; a passionate Node.js software developer based in the Nether
 
 My expertise extends to various technologies, including Symfony, Laravel, Vue.js, Node.js, and more.
 
-## Ongoing Projects
+## Projects
 
 - **[Chocolate](https://github.com/mochidochi/Chocolate)** &mdash; Discord bot made using TypeScript
