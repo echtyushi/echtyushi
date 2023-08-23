@@ -4,4 +4,4 @@ Hi, I'm Josh &mdash; a passionate Node.js software developer based in the Nether
 
 ## Projects
 
-- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; Discord bot made using TypeScript
+- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a Discord bot made using TypeScript
