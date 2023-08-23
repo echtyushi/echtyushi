@@ -8,4 +8,4 @@ My expertise extends to various technologies, including Symfony, Laravel, Vue.js
 
 ## Projects
 
-- **[Chocolate](https://github.com/mochidochi/Chocolate)** &mdash; Discord bot made using TypeScript
+- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; Discord bot made using TypeScript
