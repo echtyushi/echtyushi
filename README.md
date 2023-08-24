@@ -1,6 +1,6 @@
-# Josh &mdash; @mochidochi 📌
+<img src="https://media.tenor.com/8cYYJ-kVkbQAAAAC/cats.gif" width="300">
 
-![a](https://media.tenor.com/8cYYJ-kVkbQAAAAC/cats.gif)
+# Josh &mdash; @mochidochi 📌
 
 Hi, I'm Josh &mdash; a passionate Node.js software developer based in the Netherlands. With a strong foundation in TypeScript, JavaScript, and PHP, I specialize in creating robust and scalable web applications. 
 
