@@ -1,9 +1,8 @@
 # Josh &mdash; @mochidochi 📌
 
-<img src="https://media.tenor.com/8cYYJ-kVkbQAAAAC/cats.gif" width="300">
-
 Hi, I'm Josh &mdash; a passionate Node.js software developer based in the Netherlands. With a strong foundation in TypeScript, JavaScript, and PHP, I specialize in creating robust and scalable web applications. 
 
+<img src="https://media0.giphy.com/media/bgu2GvmWzB7msNmevT/giphy.gif" width="300">
 🌱 My expertise extends to various technologies, including Symfony, Laravel, Vue.js, Node.js, and more. 
 
 ## Projects
