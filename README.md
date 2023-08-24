@@ -7,6 +7,6 @@ With a strong foundation in **TypeScript**, **JavaScript**, and **PHP**, I speci
 
      🌱 My expertise extends to various technologies, including Symfony, Laravel, Vue.js, Node.js, and more. 
 
-## Projects
+## Ongoing projects ⭐
 
 - **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a Discord bot made using TypeScript
