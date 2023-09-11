@@ -5,4 +5,4 @@ With a strong foundation in TypeScript, JavaScript, and PHP, I specialize in cre
 
 ## Public projects:
 
-- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a Discord bot made using TypeScript
+- **[mocha](https://github.com/mochidochi/Chocolate)** &mdash; a Discord bot made using TypeScript
