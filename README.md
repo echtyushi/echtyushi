@@ -2,6 +2,8 @@
 
 Hi, I'm Josh - a passionate Node.js software developer/engineer based in the Netherlands. I specialize in Node.js and have experience working with technologies like Laravel and Symfony. 
 
+![](https://komarev.com/ghpvc/?username=mochidochi)
+
 ## My projects:
 
 - **[Mocha](https://github.com/mochidochi/mocha)** - A versatile server management bot for Discord servers
