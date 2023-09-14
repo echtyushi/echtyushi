@@ -1,6 +1,6 @@
 # Josh &mdash; @mochidochi 📌
 
-Hi, I'm Josh &mdash; a passionate Node.js software developer/engineer based in the Netherlands! With a strong foundation in TypeScript, JavaScript, and PHP, I specialize in creating robust and scalable web applications. 🌱
+Hi, I'm Josh &mdash; a passionate Node.js software developer/engineer based in the Netherlands! With a strong foundation in TypeScript, JavaScript, and PHP, I specialize in creating robust and scalable web applications :) 🌱
 
 ## Public projects:
 
