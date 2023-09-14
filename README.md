@@ -4,4 +4,5 @@ Hi, I'm Josh &mdash; a passionate Node.js software developer/engineer based in t
 
 ## Public projects:
 
-- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a versatile server management bot for Discord servers.
+- **[Mocha](https://github.com/mochidochi/mocha)** &mdash; A versatile server management bot for Discord servers
+- **[Notepet](https://github.com/mochidochi/notepet)** &mdash; A note-taking and organization app
