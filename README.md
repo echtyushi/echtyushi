@@ -4,4 +4,4 @@ Hi, I'm Josh &mdash; a passionate Node.js software developer/engineer based in t
 
 ## Public projects:
 
-- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a versatile server management bot designed to enhance the functionality and moderation capabilities of your Discord server.
+- **[Mocha](https://github.com/mochidochi/Chocolate)** &mdash; a versatile server management bot for Discord servers.
