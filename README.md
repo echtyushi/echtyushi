@@ -1,8 +1,6 @@
 
 # Josh &mdash; @mochidochi 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmochidochi&countColor=%23263759&style=flat-square)
-
 ```
 
  __     __   ______   __       ______   ______   __    __   ______    
