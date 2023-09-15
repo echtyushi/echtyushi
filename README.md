@@ -1,17 +1,6 @@
 
 # Josh &mdash; @mochidochi 
 
-```
-
- __     __   ______   __       ______   ______   __    __   ______    
-/\ \  _ \ \ /\  ___\ /\ \     /\  ___\ /\  __ \ /\ "-./  \ /\  ___\   
-\ \ \/ ".\ \\ \  __\ \ \ \____\ \ \____\ \ \/\ \\ \ \-./\ \\ \  __\   
- \ \__/".~\_\\ \_____\\ \_____\\ \_____\\ \_____\\ \_\ \ \_\\ \_____\ 
-  \/_/   \/_/ \/_____/ \/_____/ \/_____/ \/_____/ \/_/  \/_/ \/_____/ 
-                                                                      
-
-```
-
 Hi, I'm Josh - a passionate Node.js software developer/engineer based in the Netherlands. I specialize in Node.js and have experience working with technologies like Laravel and Symfony. 
 
 
