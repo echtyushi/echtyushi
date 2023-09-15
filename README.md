@@ -1,4 +1,4 @@
-![](banner.png)
+![](cover.png)
 
 # Josh &mdash; @mochidochi 
 
