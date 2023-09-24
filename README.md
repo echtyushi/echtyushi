@@ -7,5 +7,5 @@ Reach me on **[Discord](https://discord.gg/5QpANggC)**!
 
 ## My projects
 
-- **[mocha](https://github.com/mochidochi/mocha)** - a versatile server management bot for Discord servers.
+- **[mocha](https://github.com/mochidochi/mocha)** - a server management bot for Discord.
 - **[notelet](https://github.com/mochidochi/notelet)** - a note-taking and organization app to streamline productivity.
