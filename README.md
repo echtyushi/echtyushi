@@ -5,5 +5,5 @@ Hi, I'm Josh 👋 - a passionate self-taught Node.js software developer/engineer
 
 ## My projects 📌
 
-- **[mocha](https://github.com/mochidochi/mocha)** - a server management bot for Discord
-- **[notelet](https://github.com/mochidochi/notelet)** - a note-taking and organization app to streamline productivity
+- **[mocha](https://github.com/echtyushi/mocha)** - a server management bot for Discord
+- **[notelet](https://github.com/echtyushi/notelet)** - a note-taking and organization app to streamline productivity
